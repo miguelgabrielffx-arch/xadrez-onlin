@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>🎮 Jogo Surpresa</title>
+  <style>
+    body {
+      background-color: #0f0f0f;
+      color: #ffffff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+
+    .box {
+      background: #1c1c1c;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 0 20px #ff4d6d;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    h1 {
+      color: #ff4d6d;
+    }
+
+    .loading {
+      font-family: monospace;
+      margin-bottom: 20px;
+      white-space: pre;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box">
+    <h1>🎮 Carregando jogo…</h1>
+
+    <div class="loading">
+█░░░░░░░░ 10%
+███░░░░░░ 30%
+██████░░░ 70%
+█████████ 100%
+
+Erro detectado…
+    </div>
+
+    <p>
+O verdadeiro jogo que eu tô jogando é tentar conquistar você todos os dias 🤍
+    </p>
+
+    <p>
+Se você entrou aqui achando que era um jogo…<br>
+Parabéns.<br>
+Você acabou de desbloquear o meu coração.
+    </p>
+
+    <p>
+Eu sei que isso pode parecer do nada, mas eu precisava falar.<br><br>
+
+Eu amo você. Amo seu sorriso, amo sua risada, amo seus olhinhos… eu literalmente amo tudo em você. Até seu jeito de falar, sua voz então nem se fala.
+    </p>
+
+    <p>
+Eu admito que tô perdidamente apaixonado por você.<br>
+O que eu não encontrei em dois anos, você me ofereceu em poucos dias.<br>
+E por mim isso não acaba.
+    </p>
+
+    <p>
+Eu sei que nem sempre vai ser perfeito, mas sempre que algo der errado, eu prefiro consertar 100 vezes do que te perder uma única vez.
+    </p>
+
+    <p>
+Eu não te quero só hoje. Nem só amanhã. Eu te quero pro meu futuro.
+Quero você comigo até o resto da minha vida.
+    </p>
+
+    <p>
+Eu sei que não sou perfeito… mas por você eu me esforço pra ser melhor todos os dias, porque você merece o melhor de mim.
+    </p>
+
+    <p>
+Não vejo a hora de te ver, te encher de beijinho, te espremer de tanto abraço, ficar olhando pra você e pensando como eu tive tanta sorte.
+    </p>
+
+    <h2>Eu te amo, minha princesa 🤍</h2>
+
+    <p>
+Se esse fosse realmente um jogo,<br>
+a única coisa que eu ia querer ganhar…<br>
+<strong>é você 🤍</strong>
+    </p>
+  </div>
+
+</body>
+</html>
